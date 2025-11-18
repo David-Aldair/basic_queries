@@ -1,0 +1,5 @@
+select	
+	FirstName,
+    LastName
+from	
+	employees;
